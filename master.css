@@ -1,0 +1,249 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Architects Daughter', cursive;
+}
+.top-container{
+  position: relative;
+  background-color: #d0e8f2;
+  text-align: center;
+}
+.top-container h1{
+  padding-top: 100px;
+      font-size: 5.625rem;
+    /* line-height: 2; */
+    color:  #66BFBF;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.top-container p{
+  font-family: 'Shadows Into Light', cursive;
+font-size: 2.5rem;
+font-weight: normal;
+
+color:  #66BFBF;
+}
+
+p{
+  line-height: 2;
+}
+.skill-row{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 150px;
+    margin-top: 60px;
+    text-align: left;
+
+}
+
+.prog,.data-s,.web-d{
+  float: left;
+  margin: 25px;
+  width: 25%;
+}
+.web-d{
+   float: right;
+    margin: -17px;
+}
+.top-cloud{
+  position: absolute;
+top: 69px;
+left: 330px;
+}
+.middle-cloud{
+  position: absolute;
+top: 288px;
+left: 419px;
+}
+.bottom-cloud{
+  position: absolute;
+      top: 57px;
+      right: 461px;
+    }
+.middle-container{
+  text-align: center;
+  background-color: #f5f5f5;
+  padding-top: 75px;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #f5f5f5;
+}
+.mountain{
+  padding-top: 76px;
+}
+h2{
+  color:  #66BFBF;
+  padding-bottom: 20px;
+  font-size: 50px;
+}
+h3,a{
+  color: #11999E;
+}
+h3{
+  font-size: 34px;
+}
+.icons{
+  width: 40px;
+  padding: 4px;
+}
+.hr1,.hr2{
+      text-align: center;
+      border: 5px dotted grey;
+      background-color: white;
+      border-bottom: none;
+
+
+}
+.hr1{
+  width: 20%;
+  margin: auto;
+  margin-top: 46px;
+  margin-bottom: 47px;
+}
+.hr2{
+  width: 20%;
+  margin: auto;
+  margin-top: 248px;
+  margin-bottom: 50px;
+}
+.hr3{
+
+}
+.intro{
+  width: 35%;
+  margin:auto;
+  font-size: 22px;
+}
+.profile_pic{
+  width: 240px;
+}
+.skill-para{
+  font-size: 25px;
+}
+#data-row{
+      margin-top: 240px;
+}
+.verymuch{
+  font-size: 20px;
+}
+
+/* h2 hobby */
+.h2-hobbby{
+
+}
+
+/* .projects{
+  margin: 97px;
+} */
+/* h1 */
+/* .hi{
+  position: absolute;
+border-radius: 100%;
+width: 18%;
+top: 78px;
+right: 33px;
+} */
+
+/* button */
+
+.btn {
+
+}
+
+.btn:hover {
+  background: #e8e8e8;
+  background-image: -webkit-linear-gradient(top, #e8e8e8, #d0e8f2);
+  background-image: -moz-linear-gradient(top, #e8e8e8, #d0e8f2);
+  background-image: -ms-linear-gradient(top, #e8e8e8, #d0e8f2);
+  background-image: -o-linear-gradient(top, #e8e8e8, #d0e8f2);
+  background-image: linear-gradient(to bottom, #e8e8e8, #d0e8f2);
+  text-decoration: none;
+}
+.hr3{
+
+}
+
+
+.btn {
+  /* border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+
+  margin: 5px; */
+  background: #f4eeed;
+  background-image: -webkit-linear-gradient(top, #f4eeed, #a2cfeb);
+  background-image: -moz-linear-gradient(top, #f4eeed, #a2cfeb);
+  background-image: -ms-linear-gradient(top, #f4eeed, #a2cfeb);
+  background-image: -o-linear-gradient(top, #f4eeed, #a2cfeb);
+  background-image: linear-gradient(to bottom, #f4eeed, #a2cfeb);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Georgia;
+  color: #573357;
+  border: none;
+  transition: all 0.7s;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.btn span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn:hover span {
+  padding-right: 25px;
+}
+
+.btn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/* button ends */
+.gihub-link{
+  width: 18%;
+margin: auto;
+}
+.img-github{
+width: 278px;
+border-radius: 187px;
+}
+.value{
+  display: inline;
+}
+.anchor{
+  display: block;;
+}
+.mine{
+  text-align: center;
+  border: 5px dotted grey;
+  background-color: white;
+  border-bottom: none;
+  width: 20%;
+margin: auto;
+margin-top: 40px;
+margin-bottom: 40px;
+}

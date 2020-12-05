@@ -1,0 +1,39 @@
+/* @media screen and (max-width: 400px) */
+/* {
+  body{
+    margin: auto;
+  width: 166%;
+  }
+
+  .middle-cloud {
+        position: absolute;
+    top: 303px;
+    /* right: 33px; */
+    /* left: 28px;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 79px;
+  right: 26px;
+}
+.top-cloud {
+  position: absolute;
+  top: 48px;
+  left: 39px;
+}
+.top-container p {
+  font-size: 1.5rem;
+  line-height: 0;
+}
+.intro {
+  width: 50%;
+  margin: auto;
+}
+.skill-row {
+  width: 58%;
+}
+.verymuch{
+  width: 56%;
+  margin: auto;
+}
+  }   */ */
